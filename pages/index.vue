@@ -22,7 +22,7 @@
         >
           GitHub
         </a>
-        <p>Testing Heroku Staging ______</p>
+        <p>Does this deploy and push to github?</p>
       </div>
     </div>
   </div>
