@@ -22,7 +22,7 @@
         >
           GitHub
         </a>
-        <p>Testing Heroku Staging 092340298340283</p>
+        <p>Testing Heroku Staging ______</p>
       </div>
     </div>
   </div>
