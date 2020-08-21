@@ -22,7 +22,7 @@
         >
           GitHub
         </a>
-        <p>Testing Heroku Staging Env?</p>
+        <p>Testing Heroku Staging Environment, then to Prod</p>
       </div>
     </div>
   </div>
