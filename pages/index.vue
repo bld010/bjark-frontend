@@ -22,7 +22,7 @@
         >
           GitHub
         </a>
-        <p>Does this deploy and push to github?</p>
+        <p>Testing git remotes on work PC</p>
       </div>
     </div>
   </div>
